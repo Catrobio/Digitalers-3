@@ -1,0 +1,37 @@
+.container{
+    display: flex;
+    justify-content: space-between;
+}
+
+.container section{
+    width: 10%;
+    text-align: center;
+}
+
+#element1{
+    background-color: aqua;
+}
+
+#element2{
+    background-color:darkgreen
+}
+
+#element3{
+    background-color: blue;
+}
+
+#element4{
+    background-color: rgb(143, 67, 214);
+}
+
+#element5{
+    background-color: rgb(182, 77, 77);
+}
+
+#element6{
+    background-color: crimson;
+}
+
+#element7{
+    background-color: deeppink;
+}
